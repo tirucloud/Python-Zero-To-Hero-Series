@@ -26,7 +26,6 @@ Day 2: Data Types & Input/Output
 
 Day 3: Conditional Statements
 
-...
 
 Final Days: Real Projects (Mini apps, scripts, etc.)
 
@@ -38,25 +37,18 @@ Option 2: Use an online IDE like Replit or Google Colab
 Option 3: Install VS Code + Python Extension
 
 5. ⚙️ Verify Installation
-<<<<<<< HEAD
 ```
-=======
-`
->>>>>>> 1d98ec874ad1fb82aa09dd9f3fdcfceab02c9528
 python --version
 
 python3 --version
-<<<<<<< HEAD
 ```
 6. ✍️ First Python Program
 ```print("Hello, Python World!")```
-=======
-`
+
 6. ✍️ First Python Program
-`
+```
 print("Hello, Python World!")
-`
->>>>>>> 1d98ec874ad1fb82aa09dd9f3fdcfceab02c9528
+```
 7. 📚 Learning Resources (Optional but helpful)
 Python Docs
 
