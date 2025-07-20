@@ -20,11 +20,11 @@ Demand in job market.
 Versatile: one language, many use cases.
 
 3.🗺️ What You’ll Learn in This Series (Brief Overview)
-Day 1: Hello World, Variables
+- Day 1: Hello World, Variables
 
-Day 2: Data Types & Input/Output
+- Day 2: Data Types & Input/Output
 
-Day 3: Conditional Statements
+- Day 3: Conditional Statements
 
 
 Final Days: Real Projects (Mini apps, scripts, etc.)
