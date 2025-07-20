@@ -38,21 +38,13 @@ Option 2: Use an online IDE like Replit or Google Colab
 Option 3: Install VS Code + Python Extension
 
 5. ⚙️ Verify Installation
-bash
-Copy
-Edit
+```
 python --version
-or
 
-bash
-Copy
-Edit
 python3 --version
+```
 6. ✍️ First Python Program
-python
-Copy
-Edit
-print("Hello, Python World!")
+```print("Hello, Python World!")```
 7. 📚 Learning Resources (Optional but helpful)
 Python Docs
 
@@ -63,11 +55,11 @@ RealPython
 Your GitHub/Blog/Youtube if you're publishing this series there
 
 8. 💡 Tips for Beginners
-Practice daily, even 20 minutes.
+- Practice daily, even 20 minutes.
 
-Don’t fear errors — they’re part of learning.
+- Don’t fear errors — they’re part of learning.
 
-Use online communities (Reddit, Stack Overflow, Discord groups).
+- Use online communities (Reddit, Stack Overflow, Discord groups).
 
 📝 Day 0 Challenge (Optional)
 ✅ Install Python
