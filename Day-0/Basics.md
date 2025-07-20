@@ -1,5 +1,5 @@
 # Day 0: Getting Ready to Learn Python
-🎯 Objective:
+## 🎯 Objective:
 Introduce what Python is, what this series will cover, and ensure learners have the tools they need to start coding.
 
 📌 Structure of Day 0:
