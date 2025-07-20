@@ -38,21 +38,16 @@ Option 2: Use an online IDE like Replit or Google Colab
 Option 3: Install VS Code + Python Extension
 
 5. ⚙️ Verify Installation
-bash
-Copy
-Edit
+`
 python --version
 or
 
-bash
-Copy
-Edit
 python3 --version
+`
 6. ✍️ First Python Program
-python
-Copy
-Edit
+`
 print("Hello, Python World!")
+`
 7. 📚 Learning Resources (Optional but helpful)
 Python Docs
 
