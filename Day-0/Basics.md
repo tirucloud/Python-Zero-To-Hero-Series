@@ -41,7 +41,7 @@ Python 3.0 - December 2008
 - Python is easier than C, C++ and Java.
 - Companies like Google, Youtube, Dropbox etc are using Python as a main language or a support language.
 
-## The website known as Reddit is totally written in the python language.
+## The website Reddit is totally written in the python language.
 
 ---
 
