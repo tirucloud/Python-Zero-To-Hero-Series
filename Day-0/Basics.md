@@ -13,6 +13,13 @@ Python is a **high-level, interpreted, general-purpose programming language** kn
 - **Created by:** Guido van Rossum (first released in 1991)
 - **Used in:** Web development, data science, automation, AI/ML, scripting, and more
 
+
+Python language has multiple versions:
+Python 1.0 - January 1994
+Python 2.0 - October 2000
+Python 3.0 - December 2008
+
+
 ---
 
 ## 🗝️ Key Features
@@ -31,6 +38,10 @@ Python is a **high-level, interpreted, general-purpose programming language** kn
 - Massive community and abundant resources
 - High demand in the job market
 - Versatile: one language, many use cases
+- Python is easier than C, C++ and Java.
+- Companies like Google, Youtube, Dropbox etc are using Python as a main language or a support language.
+
+## The website known as Reddit is totally written in the python language.
 
 ---
 
