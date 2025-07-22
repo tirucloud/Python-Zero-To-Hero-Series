@@ -58,7 +58,7 @@ Open your terminal or command prompt and run:
 
 ```
 python --version
-python3 --version
+
 ```
 
 ---
