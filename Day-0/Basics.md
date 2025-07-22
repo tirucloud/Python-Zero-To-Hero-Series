@@ -56,10 +56,7 @@ Python is a **high-level, interpreted, general-purpose programming language** kn
 
 Open your terminal or command prompt and run:
 
-```
-python --version
-
-```
+```python --version```
 
 ---
 
