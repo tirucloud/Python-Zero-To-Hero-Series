@@ -91,7 +91,7 @@ Run it to see your first output!
 
 ---
 
-## 📝 Day 0 Challenge (Optional)
+## 📝 Day 0 Challenge
 
 - ✅ Install Python
 - ✅ Run your first Python file with `print("Hello, Python World!")`
