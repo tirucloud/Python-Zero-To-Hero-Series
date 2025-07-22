@@ -58,7 +58,6 @@ Open your terminal or command prompt and run:
 
 ```
 python --version
-
 ```
 
 ---
