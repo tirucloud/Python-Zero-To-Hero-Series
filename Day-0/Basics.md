@@ -49,8 +49,7 @@ Python 3.0 - December 2008
 
 - **Day 1:** Hello World, Variables
 - **Day 2:** Data Types & Input/Output
-- **Day 3:** Conditional Statements
-...
+- **Day 3:** Conditional Statements ...
 - **Final Days:** Real Projects (Mini apps, scripts, etc.)
 
 ---
