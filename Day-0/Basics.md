@@ -23,7 +23,6 @@ Python is a **high-level, interpreted, general-purpose programming language** kn
 - **Multi-Paradigm:** Supports object-oriented, functional, and procedural programming
 - **Large Standard Library:** Comes with many built-in modules
 - **Cross-Platform:** Works on Windows, macOS, Linux, etc.
-- **Python supports both procedure-based as well as object-oriented programming**
 ---
 
 ## 🚀 Why Learn Python?
