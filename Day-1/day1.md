@@ -26,3 +26,17 @@ more than just one line
 ## Variables
 Variables are containers for storing data values.
 
+## Creating Variables
+Python has no command for declaring a variable.
+
+A variable is created the moment you first assign a value to it.
+
+```
+x = 4       # x is of type int
+x = "Sally" # x is now of type str
+x=str(2)
+print(type(x))
+y='john'
+
+```
+
