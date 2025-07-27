@@ -1,4 +1,4 @@
-# Day 1: Getting Ready to Learn Python
+# Day 1: Data types in Python
 ## Python Indentation
 Indentation refers to the spaces at the beginning of a code line.
 
