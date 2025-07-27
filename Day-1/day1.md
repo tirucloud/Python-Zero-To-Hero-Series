@@ -22,8 +22,6 @@ written in
 more than just one line
 """
 ```
-print("Cheers, Mate!")
-
 
 ## Variables
 Variables are containers for storing data values.
