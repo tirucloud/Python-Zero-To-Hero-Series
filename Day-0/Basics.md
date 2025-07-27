@@ -3,20 +3,25 @@
 
 📌 Structure of Day 0:
 🧠 What is Python?
-High-level, interpreted programming language.
+General purpose, High-level, interpreted programming language. It was created by Guido van Rossum, and released in 1991.
 
 Easy to read and write.
 
 Used in: web development, data science, automation, AI/ML, scripting, etc.
 
 🚀 Why Learn Python?
-Beginner-friendly.
+
+Beginner-friendly, simple syntax similar to the English language.
+
+**Python runs on an interpreter system**, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 
 Huge community and resources.
 
 Demand in job market.
 
 Versatile: one language, many use cases.
+
+Python can be treated in a procedural way, an object-oriented way or a functional way.
 
 🗺️ What You’ll Learn in This Series (Brief Overview)
 - Day 1: Hello World, Variables
