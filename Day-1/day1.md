@@ -34,9 +34,54 @@ A variable is created the moment you first assign a value to it.
 ```
 x = 4       # x is of type int
 x = "Sally" # x is now of type str
-x=str(2)
+x=str(2)    # x is now of type str
 print(type(x))
-y='john'
-
 ```
 
+## Single or Double Quotes?
+String variables can be declared either by using 
+single or double quotes:
+
+```
+y='john'
+print(type(y))
+y="jon"
+print(type(y))
+```
+
+## Case-Sensitive
+Variable names are case-sensitive.
+
+Example
+This will create two variables:
+```
+a = 4
+A = "Sally"
+#A will not overwrite a
+```
+
+## Rules for Python variables:
+
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords
+
+## Multi Words Variable Names
+
+### Camel Case
+Each word, except the first, starts with a capital letter:
+```
+myVariableName = "John"
+```
+### Pascal Case
+Each word starts with a capital letter:
+```
+MyVariableName = "John"
+```
+### Snake Case
+Each word is separated by an underscore character:
+```
+my_variable_name = "John"
+```
