@@ -118,7 +118,8 @@ print(x + y + z)
 ### In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error:
 
 Example
+```
 x = 5
 y = "John"
 print(x + y)
-
+```
