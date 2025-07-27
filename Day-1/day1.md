@@ -85,7 +85,7 @@ Each word is separated by an underscore character:
 ```
 my_variable_name = "John"
 ```
-## Unpack collection
+### Unpack collection
 
 ```
 fruits = ["apple", "banana", "cherry"]
@@ -95,7 +95,7 @@ print(y)
 print(z)
 ```
 
-## Output Variables
+### Output Variables
 The Python print() function is often used to output variables.
 ```
 x = "Python is awesome"
@@ -108,12 +108,17 @@ y = "is"
 z = "awesome"
 print(x, y, z)
 ```
-## You can also use the + operator to output multiple variables:
+### You can also use the + operator to output multiple variables:
 ```
 x = "Python "
 y = "is "
 z = "awesome"
 print(x + y + z)
 ```
+### In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error:
 
+Example
+x = 5
+y = "John"
+print(x + y)
 
