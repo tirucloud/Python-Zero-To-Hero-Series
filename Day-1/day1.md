@@ -11,8 +11,8 @@ if 5 > 2:
 
 ## Comments
 ### single line comment:
-#print("Hello, World!")
-print("Cheers, Mate!")
+
+For single line commant use #
 
 ### Multiline comment:
 ```
