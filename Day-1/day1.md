@@ -1,4 +1,4 @@
-# Day 1: Data types in Python
+# Day 1: Variables and Data types in Python
 ## Python Indentation
 Indentation refers to the spaces at the beginning of a code line.
 
@@ -146,3 +146,38 @@ myfunc()
 print("Python is " + x)
 ```
 
+### How to create a global variable inside a function
+
+```
+def myfunc():
+  global x
+  x = "fantastic"
+
+myfunc()
+
+print("Python is " + x)
+```
+```
+x = 'awesome'
+def myfunc():
+  x = 'fantastic'
+myfunc()
+print('Python is ' + x)
+```
+## Built-in Data Types
+In programming, data type is an important concept.
+
+Variables can store data of different types, and different types can do different things.
+
+## Python has the following data types built-in by default, in these categories:
+
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
+
+![list,tuple,range,dict,set](image.png)
