@@ -173,11 +173,17 @@ Variables can store data of different types, and different types can do differen
 
 Text Type:	str
 Numeric Types:	int, float, complex
+
 Sequence Types:	list, tuple, range
+
 Mapping Type:	dict
+
 Set Types:	set, frozenset
+
 Boolean Type:	bool
+
 Binary Types:	bytes, bytearray, memoryview
+
 None Type:	NoneType
 
 ![list,tuple,range,dict,set](image.png)
