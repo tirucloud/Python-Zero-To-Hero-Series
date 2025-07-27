@@ -85,3 +85,27 @@ Each word is separated by an underscore character:
 ```
 my_variable_name = "John"
 ```
+## Unpack collection
+
+```
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+```
+
+## Output Variables
+The Python print() function is often used to output variables.
+```
+x = "Python is awesome"
+print(x)
+```
+
+```
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
+```
+
