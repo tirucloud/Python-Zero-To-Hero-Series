@@ -3,11 +3,9 @@
 
 # 📌 Structure of Day 0:
 🧠 What is Python?
-General purpose, High-level, interpreted programming language. It was created by Guido van Rossum, and released in 1991.
-=======
+- General purpose, High-level, interpreted programming language. It was created by Guido van Rossum, and released in 1991.
 ## 🎯 Objective
 Introduce what Python is, outline the series, and ensure you have the tools to start coding.
->>>>>>> 6dde1be7ebc287ab99568fb40c9843a02702dc1a
 
 ---
 
