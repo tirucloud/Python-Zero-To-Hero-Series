@@ -28,7 +28,7 @@ Python can be treated in a procedural way, an object-oriented way or a functiona
 - Day 2: Data Types & Input/Output
 
 - Day 3: Conditional Statements
-=======
+---
 Python is a **high-level, interpreted, general-purpose programming language** known for its simplicity, readability, and versatility.
 
 - **Created by:** Guido van Rossum (first released in 1991)
