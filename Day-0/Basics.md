@@ -1,8 +1,7 @@
 
-# Day 0: Getting Ready to Learn Python
+# 📌 Day 0: Getting Ready to Learn Python
 
-# 📌 Structure of Day 0:
-🧠 What is Python?
+## 🧠 What is Python?
 - General purpose, High-level, interpreted programming language. It was created by Guido van Rossum, and released in 1991.
 ## 🎯 Objective
 Introduce what Python is, outline the series, and ensure you have the tools to start coding.
