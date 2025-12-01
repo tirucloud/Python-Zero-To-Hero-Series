@@ -1,8 +1,7 @@
 
 # Day 0: Getting Ready to Learn Python
 
-<<<<<<< HEAD
-📌 Structure of Day 0:
+# 📌 Structure of Day 0:
 🧠 What is Python?
 General purpose, High-level, interpreted programming language. It was created by Guido van Rossum, and released in 1991.
 =======
@@ -14,7 +13,6 @@ Introduce what Python is, outline the series, and ensure you have the tools to s
 
 ## 🧠 What is Python?
 
-<<<<<<< HEAD
 🚀 Why Learn Python?
 
 Beginner-friendly, simple syntax similar to the English language.
@@ -40,7 +38,6 @@ Python is a **high-level, interpreted, general-purpose programming language** kn
 
 - **Created by:** Guido van Rossum (first released in 1991)
 - **Used in:** Web development, data science, automation, AI/ML, scripting, and more
->>>>>>> 6dde1be7ebc287ab99568fb40c9843a02702dc1a
 
 
 Python language has multiple versions:
