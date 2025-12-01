@@ -213,3 +213,24 @@ Understand the basic Python collection types:
 - Dictionary
 
 Learn how to create them, access values, and perform basic operations.
+
+# 🧪 Python Lab: Understanding the `range()` Function
+
+## 🎯 Objective
+Learn how the `range()` function works in Python and how it is used in loops to generate sequences of numbers.
+
+---
+
+## 📌 What is `range()`?
+
+`range()` is a built-in Python function used to generate a sequence of numbers.
+
+### Basic Syntax
+```python
+range(start, stop, step)
+```
+## 📘 Lab Task 1: Simple Range Example
+```python
+for i in range(5):
+    print(i)
+```
