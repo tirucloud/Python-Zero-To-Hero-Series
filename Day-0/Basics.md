@@ -36,9 +36,9 @@ Python is a **high-level, interpreted, general-purpose programming language** kn
 
 
 Python language has multiple versions:
--Python 1.0 - January 1994
--Python 2.0 - October 2000
--Python 3.0 - December 2008
+- Python 1.0 - January 1994
+- Python 2.0 - October 2000
+- Python 3.0 - December 2008
 
 
 ---
