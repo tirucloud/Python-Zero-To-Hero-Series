@@ -203,3 +203,31 @@ x = bytearray(5)				#bytearray
 x = memoryview(bytes(5))			#memoryview	
 x = None					#NoneType	
 ```
+# 🧪 Python Lab: Working with List, Tuple, Set, and Dictionary
+
+## 🎯 Objective
+Understand the basic Python collection types:
+- List
+- Tuple
+- Set
+- Dictionary
+
+Learn how to create them, access values, and perform basic operations.
+
+---
+
+## 📌 Lab Task 1: Create Different Python Data Structures
+
+### Example Code
+```python
+# List
+x_list = ["apple", "banana", "cherry"]
+
+# Tuple
+x_tuple = ("apple", "banana", "cherry")
+
+# Set
+x_set = {"apple", "banana", "cherry"}
+
+# Dictionary
+x_dict = {"name": "John", "age": 36}
