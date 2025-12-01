@@ -8,9 +8,7 @@ Introduce what Python is, outline the series, and ensure you have the tools to s
 
 ---
 
-## 🧠 What is Python?
-
-🚀 Why Learn Python?
+## 🚀 Why Learn Python?
 
 Beginner-friendly, simple syntax similar to the English language.
 
