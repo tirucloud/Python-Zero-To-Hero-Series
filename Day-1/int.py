@@ -42,3 +42,29 @@ However, you can create new strings from an existing one.
 message = "Hello World"
 uppercase_message = message.upper()
 print(uppercase_message)
+
+lowercase_message = message.lower()
+print(lowercase_message)
+
+
+x = 5
+y = 10
+print(x < y)   # Is x less than y?
+print(x == y)  # Is x equal to y?
+print(x != y)  # Is x not equal to y?
+
+
+name1 = "Alice"
+name2 = "Bob"
+print(name1 < name2)  # "Alice" comes before "Bob" alphabetically
+
+
+a = True
+b = False
+print(a and b)  # True only if both a AND b are True
+print(a or b)   # True if either a OR b (or both) are True
+print(not a)    # The opposite of a
+
+age_string = "25"
+age_number = int(age_string) # Convert string to integer
+print(age_number + 5)
