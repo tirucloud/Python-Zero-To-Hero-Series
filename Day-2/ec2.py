@@ -66,15 +66,8 @@ client.authorize_security_group_ingress(
 )
 print("Ingress rules added successfully")
 
-
-# User Data Script to install Apache2
-USER_DATA_SCRIPT = """#!/bin/bash
-apt update -y
-apt install apache2 -y
-systemctl enable apache2
-systemctl start apache2
-echo "<h1>Welcome to Apache2 WebServer on AWS EC2 - Custom VPC</h1>" > /var/www/html/index.html
-"""
+with open("apache2.sh", "r") as file:
+    USER_DATA_SCRIPT = file.read()
 
 # Create EC2 Instance
 instance = ec2.create_instances(
